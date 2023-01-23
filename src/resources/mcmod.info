@@ -1,0 +1,16 @@
+[
+{
+  "modid": "paradise",
+  "name": "paradise 1.3.2",
+  "description": "Utillty Mod",
+  "version": "${1.12.2}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/hicapa/paradise",
+  "updateUrl": "",
+  "authorList": ["hicapabex"],
+  "credits": "hicapa/hicapabex, nobody",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
