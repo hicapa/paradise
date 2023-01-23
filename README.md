@@ -1,2 +1,1 @@
-# paradise
-## Current version: 1.3.2
+![image](gitassets/paradiseses.png)
